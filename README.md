@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   QUẢN LÝ SINH VIÊN BẰNG RMI
+ PHÁT TRIỂN ỨNG DỤNG PHI TẬP TRUNG HỖ TRỢ MUA BÁN VÀ CHUYỂN NHƯỢNG TRÊN NỀN TẢNG BLOCKCHAIN
 </h2>
 <div align="center">
     <p align="center">
