@@ -194,6 +194,13 @@ Sau khi hoàn thành, dự án có thể hỗ trợ người dùng thực hiện
 ```
 ```
 
+## 📞 5. Liên hệ
+
+Nếu có bất kỳ thắc mắc hay góp ý nào, vui lòng liên hệ:
+- **👤 Cá nhân:** Nguyễn Thị Lan Anh
+- **📍 Địa chỉ:** Hà Đông, Hà Nội  
+- **📧 Email:** lan352639@gmail.com 
+---
 
 
 
